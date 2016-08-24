@@ -1,1 +1,1 @@
-ertghu;newr5g
+#!/bin/python2.8
